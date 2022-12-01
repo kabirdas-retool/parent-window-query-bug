@@ -30,9 +30,9 @@ class App extends React.Component {
             </button>
           </div>
         </div>
-
+"
         <div className="retool-box">
-          <Retool height="600px"  url="https://retoolin.tryretool.com/editor/52327434-7118-11ed-9ffe-671e4dff40d1/Bugs/parent%20window%20query%20not%20reading%20" />
+          <Retool height="600px"  url="https://retoolin.tryretool.com/apps/52327434-7118-11ed-9ffe-671e4dff40d1/Bugs/parent%20window%20query%20not%20reading%20element?_releaseVersion=latest" />
         </div>
       </div>
     );
